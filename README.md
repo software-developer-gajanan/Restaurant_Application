@@ -10,7 +10,7 @@
 - If a dish has addons(`addoncat`), then it should display the text **“Customizations available”**.
 - Clicking on the `+` and `-` buttons should update the count accordingly and also on the cart icon on the top bar.
 - Implement maintainable and reusable coding standards.
-- The tabs must not be hardcoded, their length should change as per API.
+- The tabs must not be hardcoded, their length should change.
 
 
 
