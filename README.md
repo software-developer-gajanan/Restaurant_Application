@@ -11,7 +11,6 @@
 - Clicking on the `+` and `-` buttons should update the count accordingly and also on the cart icon on the top bar.
 - Implement maintainable and reusable coding standards.
 - The tabs must not be hardcoded, their length should change as per API.
-- Host the site in Heroku / Netlify/ any hosting.
-- Submit the git URL & site URL in the Submission form.
+
 
 
