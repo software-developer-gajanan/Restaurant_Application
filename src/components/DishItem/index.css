@@ -1,21 +1,16 @@
 .dish-item-container {
   border: 1px solid gray;
   border-radius: 12px;
-  display: flex;
   justify-content: space-between;
-  padding: 10px;
-  margin: 10px;
 }
 
 .veg-border {
   border: 1px solid #00923f;
   align-self: flex-start;
-  margin-right: 10px;
 }
 
 .non-veg-border {
   border: 1px solid #92282a;
-  margin-right: 10px;
 }
 
 .veg-round {
@@ -69,7 +64,7 @@
 
 .button {
   padding: 5px;
-  background-color: #17ce2f;
+  background-color: transparent;
   border: none;
   outline: none;
   cursor: pointer;
